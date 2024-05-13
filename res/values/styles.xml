@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme1">
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:windowActionBar">true</item>
+        <!-- Add more theme attributes here as needed -->
+    </style>
+
+</resources>
